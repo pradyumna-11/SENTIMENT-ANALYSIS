@@ -99,5 +99,6 @@ By automating this process using tools like VADER, organizations can make faster
 This task demonstrates the power of NLP and Python in understanding human language and transforming raw text into meaningful insights. It lays the foundation for more complex tasks such as emotion detection, topic modeling, and intent classification.
 
 
-#Output:
+##Output:
+
 <img width="1025" height="520" alt="Image" src="https://github.com/user-attachments/assets/1fb8feec-a9b1-4cff-9a51-f348e36c0bd8" />
